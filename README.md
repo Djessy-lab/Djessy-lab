@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me : 
 
-- 🌱 I’m currently learning Nextjs 
+- 🌱 I’m currently learning Nuxt 
 - 💬 Ask me about Javascript
 - 📫 How to reach me: djessy.coiffe@gmail.com
 - 📑 Know about my experiences [CV](https://www.canva.com/design/DAFdvnPnpDs/D6udd5Nfvd2VxYkGCsGCOg/view?utm_content=DAFdvnPnpDs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
